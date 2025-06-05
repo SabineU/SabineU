@@ -20,7 +20,7 @@ Committed to excellence in both QA and Development, I'm excited to tackle new ch
 
 > 💬 Ask me about **QA Automation**, **Performance Testing**, and **Full-Stack Web Development**.
 
-> 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sabine-umuhoza/) | [GMail](sabina.umuhoza@gmail.com) (Update with your links)
+> 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sabine-umuhoza/) | [GMail](sabina.umuhoza@gmail.com)
 
 > ⚡ Fun fact: I love blending **engineering precision** with **creative problem-solving**.
 
