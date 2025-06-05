@@ -2,6 +2,7 @@
 
 I'm a passionate **Software Engineer** and **QA Specialist** who loves building and testing high-quality software solutions.  
 Certified Software Test Engineer with six years of hands-on experience, specializing in both **functional** and **non-functional** testing to optimize performance and user experience across web and mobile platforms.  
+
 I have a solid foundation in **Full-Stack Web Development** — working with technologies like **HTML, CSS, JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, and PostgreSQL** — and I'm currently sharpening my development skills by building real-world projects 🚀.
 
 I’m also a strong advocate for collaboration and continuous learning: passionate about **mentoring, coaching, and sharing best practices** to help teams grow and deliver quality software.  
