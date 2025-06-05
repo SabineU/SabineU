@@ -69,8 +69,8 @@ A sample collection of professional software testing artifacts I've produced bas
 - 📋 [Test Strategy Document](https://drive.google.com/file/d/13hI4Cb2WXf1JymaivwMbZQ5g4lOHB5Jk/view?usp=sharing)
 - 📝 [Test Plan Document](https://drive.google.com/file/d/1JB1L_VX-noTCf21-J4MO2Q0ZPIi4fKOR/view?usp=sharing)
 - ✅ [Test Cases Sample](https://docs.google.com/spreadsheets/d/1QnpJ9456a6RIG5r-YXKLOUMCgl7qVF7A/edit?usp=sharing&ouid=117060470172610053791&rtpof=true&sd=true)
-- 🐛 [Bug Report Example](#)  > *(Note: Being implemented.)*
-- 📊 [Test Summary Report](#) > *(Note: Being implemented.)*
+- <!-- 🐛 [Bug Report Example](#)  … -->
+- <!-- 📊 [Test Summary Report](#) … -->
 
 > *(Note: Documents linked are examples from practice/dummy projects.)*
 
